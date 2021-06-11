@@ -1,0 +1,14 @@
+h1{
+    color: mediumturquoise;
+}
+a{
+    color: white;
+}
+p,li,ul{
+    font-family: Verdana,sans-serif;
+    margin: 25px, 50px;
+}
+
+div {
+    margin: 25px 50px;
+}
